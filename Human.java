@@ -19,6 +19,9 @@ public interface Human {								//Interface
 	default void nature(String a) {						//Default method will not work due to java standard
 		System.out.println("Human mind is very Curious");
 	}
+	default void nature(String a) {						//Default method will not work due to java standard
+		System.out.println("Human mind is very Curious"); // add method by ahmed
+	}
 
 	public static int legNhand(int legNo, int handNo) {	//return method will not work due to java standard
 		int legNhand = legNo + handNo;

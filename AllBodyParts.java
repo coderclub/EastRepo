@@ -54,11 +54,12 @@ public class AllBodyParts extends Classified implements Human { 	// Abstraction
 		return eyeNo;
 	}
 
-	public void leg(double legNo) {
-	}
+	// leg method deleted by ahmed
+	// leg method re add by asif
+	// add laptp method
 
 	public void hand(double handNo) {
-		System.out.printf("Asif login at 12:19");
+		System.out.printf("Asif login at 12:39");
 	}
 
 	public void tail() {
