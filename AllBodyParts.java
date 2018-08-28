@@ -2,7 +2,7 @@ package hw4;
 
 public class AllBodyParts extends Classified implements Human { 	// Abstraction
 																	//Multi-level Inheritance
-	public static String subjectName;
+	public static String subjectName;								// ahmed edit
 	
 	public AllBodyParts() {
 		 /*  the default constructor, which (auto-generated during the creation of a
