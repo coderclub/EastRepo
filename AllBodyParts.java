@@ -55,6 +55,7 @@ public class AllBodyParts extends Classified implements Human { 	// Abstraction
 	}
 
 	// leg method deleted by ahmed
+	// leg method re add by asif
 
 	public void hand(double handNo) {
 		System.out.printf("Asif login at 12:39");
