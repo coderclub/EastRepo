@@ -18,5 +18,5 @@ public class TestCar {
 		ShamsCar.CarMake("Toyota");//Method 4
 
 		trailer hasanTrailer = new Trailer("Range Rover", "Sports")
-	}
+	}//"If you say so"
 }
