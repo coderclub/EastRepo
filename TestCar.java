@@ -15,7 +15,8 @@ public class TestCar {
 		Car ShamsCar = new Car(404, "Prius", "Toyota", 56, 'B' );		//Constructor 2
 		System.out.println(ShamsCar.GenerateSerialNo(404, 56));			//Method 2
 		ShamsCar.CarMilage();											//Method 3
-		ShamsCar.CarMake("Toyota");										//Method 4
+		ShamsCar.CarMake("Toyota");//Method 4
 
+		trailer hasanTrailer = new Trailer("Range Rover", "Sports")
 	}
 }
