@@ -17,6 +17,7 @@ public class TestCar {
 		ShamsCar.CarMilage();											//Method 3
 		ShamsCar.CarMake("Toyota");//Method 4
 
-		trailer hasanTrailer = new Trailer("Range Rover", "Sports")
+		trailer hasanTrailer = new Trailer("Range Rover", "Sports");
+		System.out.println("why i cannot push file in my group, collaborator pls check this");
 	}//"If you say so"
 }
