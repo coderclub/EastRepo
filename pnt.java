@@ -64,6 +64,7 @@ public class AllBodyParts extends Classified implements Human { 	// Abstraction
 
 	public void tail() {
 		System.out.println(subjectName + " has a tail");
+		System.out.println(subjectName + " has a nose");
 
 	}
 }
